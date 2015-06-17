@@ -1,3 +1,10 @@
+![status: inactive](https://img.shields.io/badge/status-inactive-red.svg)
+
+This project is no longer actively developed or maintained.  
+
+For new work on this check out [python-docs-samples](https://github.com/GoogleCloudPlatform/python-docs-samples/tree/master/appengine/memcache/guestbook)
+
+
 ## Memcache Guestbook Sample
 
 This is a sample app for Google App Engine that exercises the [memcache Python API](https://cloud.google.com/appengine/docs/python/memcache/usingmemcache).
